@@ -1,0 +1,11 @@
+# Ignore input CSV file
+contacts.csv
+
+# Ignore batch vCard files
+contacts_batch_*.vcf
+
+# Ignore the updated contacts CSV file
+updated_contacts.csv
+
+# Ignore the ZIP file containing vCard batches
+vcard_batches.zip
